@@ -54,7 +54,7 @@ def get_player_ids_in_league(id):
         futures = {executor.submit(get_player_info, pid): pid for pid in player_ids}
         for f in as_completed(futures):
             player_infos.append(f.result())
-    return sorted(player_infos,key=lambda p: p["id"])
+    return sorted(player_infos,key=lambda p: int(p["id"]))
 def save_excel(player_infos,filename):
     df = pd.DataFrame(player_infos)
     df.to_excel(filename, index=False, engine="openpyxl")
