@@ -91,43 +91,34 @@ def fix_id_column(df):
         logger.info("Converted column 'id' to string type.")
         dup_count = df["id"].duplicated().sum()
         if dup_count > 0:
-            logger.warning(f"Column 'id' has {dup_count} duplicate values. Check if this is expected.")
+            logger.warning(f"Column 'id' has {dup_count} duplicate values.")
     return df
 
 
 def main():
     if not INPUT.exists():
         logger.error(f"Input file {INPUT} not found. Put your data.xlsx here.")
-        print("Put 'data.xlsx' in this folder and run again.")
         sys.exit(1)
 
     df = read_data(INPUT)
     logger.info(f"Original shape: {df.shape}")
     logger.info(f"Columns and dtypes:\n{df.dtypes}")
-
-    # 0) Xử lý cột id ngay từ đầu
     df = fix_id_column(df)
 
-    # 1) Clean string columns
     df = clean_string_columns(df)
 
-    # 2) Coerce các cột số (edit nếu dataset khác)
     maybe_numeric = ['age', 'squad_number']
     df = coerce_columns_to_numeric(df, maybe_numeric)
 
-    # 3) Drop rows/cols with too many missing
     df = drop_high_missing(df, row_thresh=0.5, col_thresh=0.9)
 
-    # 4) Remove duplicates
     df = remove_duplicates(df)
 
-    # 5) Impute missing values
     df = impute_missing(df, numeric_strategy='median')
 
-    # 6) Xử lí ngoại lai
+    #  Xử lí ngoại lai
     df = cap_outliers_iqr(df)
 
-    # Final checks
     logger.info(f"Final shape: {df.shape}")
     logger.info("Missing per column after cleaning:")
     logger.info(df.isnull().sum().to_dict())
