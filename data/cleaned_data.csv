@@ -1,0 +1,517 @@
+id,name,age,stats,height,weight,squad_number
+3017,Santiago Cazorla González,38,83.0,169.0,67,8.0
+12927,Alexis Alejandro Sánchez Sánchez,36,87.0,169.0,62,10.0
+13705,Cristhian Ricardo Stuani Curbelo,38,88.0,184.0,72,7.0
+16087,Axel Laurent Angel Lambert Witsel,36,89.0,186.0,81,20.0
+20566,Iván Cuellar Sacristán,38,78.0,185.0,75,13.0
+20654,Óscar Guido Trejo,37,85.0,180.0,79,8.0
+22179,César Azpilicueta Tanco,36,88.0,178.0,75,3.0
+22857,Daniel Parejo Muñoz,36,91.0,180.0,75,10.0
+27736,Yuri Berchiche Izeta,35,88.0,181.0,77,17.0
+34893,Robert Lewandowski,37,95.0,185.0,81,9.0
+35874,Francisco Femenía Far,34,87.0,174.0,61,14.0
+35947,José Salomón Rondón Giménez,36,85.0,186.0,86,23.0
+36680,Daley Blind,35,89.0,180.0,72,17.0
+37510,Leandro Daniel Cabrera Sasía,34,87.0,187.0,81,6.0
+38848,Thibaut Nicolas Marc Courtois,33,95.0,199.0,90,1.0
+41018,Jan Oblak,32,93.0,189.0,87,13.0
+41522,Enrique García Martínez,35,87.0,186.0,79,19.0
+41634,Wojciech Tomasz Szczęsny,35,90.0,196.0,84,25.0
+41664,Jorge Resurrección Merodio,33,91.0,178.0,74,6.0
+41780,Antoine Griezmann,34,94.0,176.0,73,7.0
+42005,David Olatukunbo Alaba,33,91.0,180.0,78,4.0
+42031,Marcos Alonso Mendoza,34,88.0,187.0,84,20.0
+42073,Iago Aspas Juncal,38,89.0,176.0,67,10.0
+43650,Marc Bartra Aregall,34,88.0,184.0,80,5.0
+44056,Juan Miguel Jiménez López,32,87.0,172.0,69,7.0
+44131,Aitor Fernández Abarisketa,34,85.0,182.0,70,13.0
+44912,Ricardo Iván Rodríguez Araya,33,88.0,182.0,77,12.0
+45455,Francisco Román Alarcón Suárez,33,91.0,176.0,79,22.0
+45490,Cédric Bakambu,34,87.0,182.0,74,11.0
+45648,Nemanja Gudelj,33,88.0,187.0,80,6.0
+45688,Raúl Fernández Cavada Mateos,37,82.0,196.0,86,13.0
+45876,Mathew David Ryan,33,87.0,184.0,82,13.0
+46237,Florian Gregoire Claude Lejeune,34,87.0,190.0,81,24.0
+46587,Daniel Carvajal Ramos,33,92.0,173.0,73,2.0
+46788,David López Silva,35,88.0,185.0,83,5.0
+47215,Marc-André Ter Stegen,33,93.0,187.0,85,1.0
+47222,Denís Suárez Fernández,31,86.0,181.0,69,4.0
+47292,Daniel José Rodriguez Vázquez,37,87.0,177.0,71,14.0
+47918,Matías Ezequiel Dituro Curto,38,84.0,191.0,87,1.0
+47982,Marko Dmitrović,33,86.0,190.0,81,13.0
+49549,Ante Budimir,34,91.0,190.0,82,17.0
+51845,Juan Carlos Martín Corral,37,82.0,187.0,81,14.0
+51896,Dimitri Foulquier,32,87.0,183.0,77,20.0
+52236,Iván Balliu Campeny,33,86.0,175.0,68,20.0
+52418,Iñigo Ruiz De Galarreta Etxeberria,32,88.0,174.0,66,16.0
+53004,Stole Dimitrievski,31,87.0,188.0,81,1.0
+53052,Abdón Prats Bastidas,33,85.0,181.0,79,9.0
+53300,Luis Ezequiel Ávila,31,87.0,182.0,80,9.0
+53313,Pedro Bigas Rigo,35,85.0,181.0,82,6.0
+53358,Cristian Portugués Manzanera,33,86.0,178.0,70,8.0
+53792,Antonio Rüdiger,32,94.0,190.0,85,22.0
+54204,Omar Mascarell González,32,87.0,181.0,75,5.0
+54248,Moisés Gómez Bordonado,31,86.0,174.0,65,16.0
+54837,Lucas Torró Marset,31,88.0,190.0,83,6.0
+55457,Jonathan Castro Otto,31,85.0,175.0,70,17.0
+56426,Paulo Dino Gazzaniga,33,88.0,196.0,90,13.0
+57846,Mariano Díaz Mejías,32,80.0,180.0,79,9.0
+58288,Odysseas Vlachodimos,31,87.0,191.0,77,1.0
+58431,Antonio José Raillo Arenas,33,87.0,188.0,77,21.0
+60109,Fábio Rafael Rodrigues Cardoso,31,85.0,186.0,75,15.0
+61184,Rubén García Santos,32,87.0,171.0,72,14.0
+61438,Aymeric Jean Louis Gerard Alphonse Laporte,31,91.0,191.0,87,14.0
+62053,Diego Javier Llorente Ríos,32,89.0,185.0,74,3.0
+62557,José Luis Gayá Peña,30,90.0,172.0,68,14.0
+63418,Dominik Livaković,30,88.0,188.0,80,1.0
+63601,Adrián San Miguel Del Castillo,38,84.0,190.0,80,13.0
+63824,José Luis Morales Nogales,38,86.0,180.0,70,11.0
+63849,Thomas Lemar,29,88.0,170.0,68,11.0
+64369,Ørjan Håskjold Nyland,35,85.0,192.0,78,13.0
+64398,Gerard Moreno Balagueró,33,90.0,177.0,75,7.0
+64801,Dakonam Ortega Djené,33,88.0,178.0,72,2.0
+65326,José María Giménez De Vargas,30,91.0,185.0,76,2.0
+67144,Álvaro García Rivera,32,87.0,168.0,58,18.0
+67194,Álvaro Juan Cruz Armada,33,87.0,180.0,79,3.0
+67205,Johan Andrés Mojica Palacio,33,87.0,172.0,71,22.0
+67797,Jeremy Isaiah Richard Toljan,31,86.0,182.0,76,14.0
+67991,Sergi Darder Moll,31,89.0,180.0,71,10.0
+68051,Adnan Januzaj,30,83.0,180.0,75,24.0
+68181,André Miguel Valente Silva,29,87.0,185.0,84,9.0
+68218,Duje Ćaleta-Car,29,87.0,192.0,81,16.0
+68568,David Costas Cordal,30,83.0,184.0,74,4.0
+68648,Unai López Cabrera,29,86.0,169.0,64,17.0
+68700,Héctor Bellerín Moruno,30,87.0,178.0,74,2.0
+68710,Ayoze Pérez Gutiérrez,32,91.0,178.0,72,22.0
+68765,Nikola Maraš,29,84.0,187.0,78,12.0
+68783,Diego Rico Salguero,32,87.0,181.0,75,16.0
+68784,Alexandre Moreno Lopera,32,88.0,177.0,68,24.0
+68785,Thomas Teye Partey,32,91.0,185.0,75,16.0
+69291,Martin Valjent,29,87.0,187.0,75,24.0
+69440,Andreas Bødtker Christensen,29,90.0,186.0,75,15.0
+69663,Aritz Elustondo Irribarria,31,88.0,183.0,78,6.0
+69815,Pere Milla Peña,32,85.0,179.0,71,11.0
+70968,Baptiste Santamaria,30,88.0,180.0,70,22.0
+70981,Sergio Herrera Pirón,32,88.0,192.0,86,1.0
+71082,Mauro Wilney Arambarri Rosa,29,88.0,175.0,76,8.0
+71534,Takuma Asano,30,86.0,171.0,67,11.0
+71642,Iván Villar Martínez,28,85.0,183.0,76,1.0
+71647,Borja Iglesias Quintas,32,88.0,187.0,85,7.0
+71711,Leander Dendoncker,30,87.0,188.0,78,20.0
+71971,Clément Nicolas Laurent Lenglet,30,89.0,185.0,80,15.0
+72275,Iñigo Lekue Martínez,32,87.0,180.0,72,15.0
+72282,Álvaro Odriozola Arzallus,29,83.0,178.0,74,20.0
+72649,Iñaki Williams Arthuer,31,90.0,186.0,81,9.0
+72699,Luis Jesús Rioja González,31,87.0,173.0,65,22.0
+73406,Gonçalo Manuel Ganchinho Guedes,28,87.0,179.0,73,11.0
+73530,David Soria Solís,32,88.0,192.0,85,13.0
+74220,José Antonio Fernández Pomares,35,83.0,176.0,68,17.0
+74636,Antonio Sivera Salva,29,87.0,185.0,76,1.0
+74856,Pau López Sabata,30,87.0,189.0,77,25.0
+75014,Mihailo Ristić,29,84.0,183.0,73,21.0
+75015,Gerard Gumbau Garriga,30,85.0,188.0,77,15.0
+75052,Alejandro Remiro Gargallo,30,90.0,192.0,79,1.0
+75056,Mikel Vesga Arruti,32,88.0,191.0,86,6.0
+75126,Alexander Sørloth,29,91.0,193.0,90,9.0
+75399,Carl Starfelt,30,87.0,185.0,80,2.0
+75404,Lucas Boyé,29,86.0,182.0,80,15.0
+75427,Eric Bertrand Bailly,31,86.0,187.0,77,2.0
+75562,Luis Alfonso Espino García,33,86.0,171.0,71,22.0
+76222,Daniel Ceballos Fernández,29,89.0,176.0,65,19.0
+76249,Alejandro Berenguer Remiro,30,88.0,175.0,69,7.0
+77081,Sheraldo Rudi Salomo Willem Becker,30,87.0,180.0,75,18.0
+77118,Sofyan Amrabat,29,89.0,185.0,77,14.0
+78373,Domingos Sousa Coutinho Meneses Duarte,30,85.0,190.0,78,22.0
+78518,Mouctar Diakhaby,28,86.0,192.0,78,4.0
+78618,Vedat Muriqi,31,89.0,194.0,90,7.0
+79249,Joan Jordán Moreno,31,86.0,184.0,74,8.0
+79262,Marcos Llorente Moreno,30,91.0,183.0,68,14.0
+79263,Javier Muñoz Jiménez,30,85.0,177.0,71,14.0
+79371,Yeray Álvarez López,30,88.0,183.0,77,5.0
+79606,Augusto Martín Batalla Barga,29,87.0,185.0,79,13.0
+79810,Borja Mayoral Moya,28,88.0,182.0,68,9.0
+79874,Daniel Olmo Carvajal,27,92.0,179.0,72,20.0
+80041,Franco Emanuel Cervi,31,84.0,166.0,63,11.0
+80069,Donny Van De Beek,28,86.0,183.0,76,6.0
+80089,Juan Agustín Musso,31,88.0,191.0,90,1.0
+81249,Santiago Federico Valverde Dipetta,27,94.0,182.0,78,8.0
+81586,Nicolas Pépé,30,88.0,183.0,73,19.0
+81672,Alfonso Pedraza Sag,29,88.0,184.0,73,24.0
+81819,Álvaro Lemos Collazo,32,82.0,175.0,72,2.0
+82006,Giovani Lo Celso,29,90.0,177.0,69,20.0
+82275,Frenkie De Jong,28,93.0,181.0,74,21.0
+82337,Ferland Sinna Mendy,30,90.0,180.0,73,23.0
+82357,Aleix Febas Pérez,29,84.0,171.0,64,14.0
+82361,Daniel Pedro Calvo San Román,31,83.0,190.0,82,12.0
+82373,Djibril Sow,28,88.0,184.0,77,20.0
+82774,Carles Aleña Castillo,27,87.0,180.0,73,10.0
+82826,Ionuț Andrei Radu,28,85.0,188.0,79,13.0
+82837,Pablo Carmine Maffeo Becerra,28,87.0,172.0,70,23.0
+83451,Luis Milla Manzanares,30,87.0,173.0,69,5.0
+83503,Isaac Palazón Camacho,30,88.0,176.0,69,7.0
+83783,Josip Brekalo,27,86.0,180.0,72,18.0
+83818,Joseph Aidoo,29,85.0,185.0,80,4.0
+84044,José Luis García Vayá,27,88.0,185.0,70,18.0
+84224,Rafael Mir Vicente,28,85.0,191.0,86,10.0
+84382,Antonio Latorre Grueso,27,84.0,180.0,75,3.0
+84384,Marcus Rashford,27,92.0,185.0,75,14.0
+84483,Pablo Fornals Malla,29,89.0,178.0,67,8.0
+84680,Umar Sadiq Mesbah,28,87.0,192.0,75,15.0
+84780,Aarón Escandell Banacloche,29,83.0,188.0,72,13.0
+84791,Mikel Oyarzabal Ugarte,28,92.0,181.0,75,10.0
+84856,Santiago Comesaña Veiga,28,89.0,188.0,75,14.0
+84933,Gabriel Alonso Suazo Urbina,28,85.0,181.0,72,12.0
+85260,Kylian Mbappé Lottin,26,95.5,178.0,73,10.0
+85284,Héctor Júnior Firpo Adamés,29,86.0,184.0,78,23.0
+85672,Nahuel Molina Lucero,27,91.0,175.0,70,16.0
+85898,Santiago Colombatto,28,83.0,179.0,71,11.0
+86400,Eray Ervin Cömert,27,86.0,185.0,80,24.0
+86427,Antonio Martínez López,28,85.0,187.0,71,11.0
+86919,Carlos Soler Barragán,28,88.0,183.0,75,18.0
+86921,Igor Zubeldia Elorza,28,89.0,185.0,78,5.0
+86950,Yangel Clemente Herrera Ravelo,27,90.0,184.0,78,12.0
+86990,Marcos Do Nascimento Teixeira,29,86.0,185.0,81,23.0
+87141,Valentin André Henri Rosier,29,86.0,175.0,70,19.0
+87144,Unai Elgezabal Udondo,32,83.0,185.0,74,5.0
+87643,Marc Roca Junqué,28,89.0,184.0,75,21.0
+87870,Raphael Dias Belloli,28,94.0,176.0,67,11.0
+87941,Brahim Abdelkader Díaz,26,90.0,170.0,68,21.0
+87943,Oviemuno Dominic Ejaria,27,78.0,183.0,74,14.0
+87993,Viktor Tsyhankov,27,90.0,178.0,70,15.0
+88038,Manuel Morlanes Ariño,26,86.0,178.0,75,8.0
+88058,Juan Camilo Hernández Suárez,26,88.0,175.0,73,19.0
+88385,Trent John Alexander-Arnold,26,94.0,175.0,69,12.0
+88414,Abdul Mumin,27,86.0,188.0,75,16.0
+88443,Álvaro Fernández Llorente,27,84.0,185.0,75,25.0
+88444,Unai Simón Mendibil,28,91.0,189.0,84,1.0
+88451,Abel Ruiz Ortega,25,87.0,182.0,74,9.0
+88742,Luiz Felipe Ramos Marchi,28,87.0,187.0,81,5.0
+88811,Francisco José Beltran Peinado,26,88.0,167.0,64,8.0
+88838,Fernando Calero Villa,30,85.0,183.0,69,5.0
+89009,Grady George Diangana,27,83.0,181.0,73,12.0
+89036,Pedro Díaz Fanjul,27,85.0,180.0,70,4.0
+89622,Carlos Nahuel Benavidez Protesoni,27,84.0,185.0,76,23.0
+89684,Arnaut Danjuma Adam Groeneveld,28,88.0,178.0,74,7.0
+89747,Charles Monginda Pickel,28,84.0,184.0,76,18.0
+90068,Vinícius José Paixão De Oliveira Júnior,25,95.5,176.0,73,7.0
+90317,Juan Marcos Foyth,27,89.0,187.0,75,8.0
+90620,Chidera Ejuke,27,85.0,176.0,70,21.0
+90831,Takefusa Kubo,24,91.0,167.0,60,14.0
+90940,Enrique Barja Afonso,28,84.0,178.0,69,11.0
+90943,Eduardo Expósito Jaén,29,85.0,178.0,67,8.0
+90947,Ignacio Vidal Miralles,30,86.0,180.0,73,22.0
+90953,Jon Guridi Aldalur,30,87.0,179.0,70,18.0
+90954,Daniel Rabaseda Antolin,29,85.0,184.0,74,19.0
+91155,Manor Solomon,26,86.0,170.0,65,6.0
+91300,Andriy Lunin,26,88.0,191.0,80,13.0
+91547,Filip Ugrinić,26,85.0,184.0,84,23.0
+91548,Rubén Estephan Vargas Martínez,27,87.0,174.0,68,11.0
+93025,Robín Le Normand,28,91.0,187.0,80,24.0
+93124,Luka Ilić,26,83.0,182.0,73,21.0
+93270,Goduine Koyalipou,25,83.0,183.0,76,15.0
+93310,Pape Alassane Gueye,26,88.0,192.0,79,18.0
+93445,Ferrán Torres García,25,90.0,180.0,73,7.0
+93457,Gorka Guruzeta Rodríguez,29,89.0,188.0,76,11.0
+93485,Yvan Neyou Noupa,28,85.0,180.0,63,4.0
+93717,Andoni Gorosabel Espinosa,29,88.0,180.0,70,2.0
+93720,Javier Galán Gil,30,88.0,172.0,70,21.0
+93727,Roger Brugue Ayguade,28,84.0,174.0,70,7.0
+93754,Horațiu Moldovan,27,85.0,189.0,80,1.0
+93765,Lucas Ahijado Quintana,30,81.0,173.0,67,24.0
+93823,Rodrygo Silva De Goes,24,93.0,174.0,64,11.0
+93874,Sergio Gómez Martín,25,88.0,174.0,62,17.0
+93937,Marash Kumbulla,25,86.0,191.0,78,4.0
+94158,Hugo Duro Perales,25,88.0,180.0,70,9.0
+94160,Bambo Diaby,27,80.0,188.0,80,4.0
+94162,Diego Varela Pampín,25,83.0,173.0,65,6.0
+94163,Brais Méndez Portela,28,90.0,187.0,78,23.0
+94191,Ander Guevara Lajo,28,87.0,178.0,73,6.0
+94241,Éder Gabriel Militão,27,93.0,186.0,79,3.0
+94879,Dávid Hancko,27,89.0,188.0,82,17.0
+94977,Ronald Federico Araújo Da Silva,26,92.0,188.0,79,4.0
+95157,Jules Koundé,26,92.0,178.0,78,23.0
+95238,Nicolás Iván González,27,90.0,180.0,72,23.0
+95306,Nahuel Tenaglia,29,86.0,182.0,75,14.0
+96374,Robert Navarro Muñoz,23,87.0,178.0,70,23.0
+96786,Cristian Rivero Sabater,27,76.0,183.0,74,13.0
+97414,Jorge De Frutos Sebastián,28,87.0,175.0,76,19.0
+97481,Kervin Fabián Arriaga Villanueva,27,81.0,191.0,80,16.0
+97514,Aurélien Djani Tchouaméni,25,93.0,187.0,81,14.0
+97899,Aitor Ruibal García,29,87.0,176.0,70,24.0
+98009,Eric García Martret,24,88.0,182.0,79,24.0
+98154,Thierry Rendall Correia,26,87.0,176.0,60,12.0
+98446,Óscar Valentín Martín Luengo,31,87.0,177.0,70,23.0
+98447,Alejandro Catena Marugán,30,88.0,194.0,75,24.0
+98449,Jorge Herrando Oroz,24,86.0,192.0,78,5.0
+98824,Oihan Sancet Tirapu,25,91.0,188.0,74,8.0
+98875,Adrián De La Fuente Barquilla,26,83.0,179.0,77,4.0
+99085,Mateu Jaume Morey Bauza,25,83.0,172.0,69,2.0
+99094,Víctor Chust García,25,85.0,182.0,77,23.0
+99178,Ignacio Peña Sotorres,26,87.0,184.0,78,13.0
+99179,Óscar Mingueza García,26,90.0,184.0,75,3.0
+99239,Thiago Ezequiel Almada,24,89.0,171.0,68,11.0
+99244,Antony Matheus Dos Santos,25,89.0,174.0,63,7.0
+99307,Francisco José García Torres,26,89.0,169.0,63,20.0
+99397,David Mota Veiga Teixeira Carmo,26,87.0,194.0,76,16.0
+99633,Giacomo Raspadori,25,89.0,172.0,69,22.0
+99638,Javier Puado Diaz,27,87.0,177.0,69,7.0
+99673,Bryan Gil Salvatierra,24,88.0,175.0,70,21.0
+99674,Aihen Muñoz Capellán,28,88.0,175.0,72,3.0
+99727,Julián Álvarez,25,93.0,170.0,72,19.0
+99777,Ander Barrenetxea Muguruza,23,88.0,178.0,70,7.0
+99892,Lucas Beltrán,24,88.0,176.0,75,15.0
+99953,Lucien Jefferson Agoumé,23,86.0,185.0,78,18.0
+100035,Antonio Blanco Conde,25,87.0,176.0,68,8.0
+100124,Unai Vencedor Paris,24,85.0,175.0,73,12.0
+100191,Federico Sebastián Viñas Barboza,27,85.0,180.0,70,9.0
+100280,Sergio Camello Pérez,24,86.0,177.0,69,10.0
+100457,Tajon Buchanan,26,86.0,183.0,73,17.0
+100536,Marc Aguado Pallarés,25,82.0,178.0,68,8.0
+101125,Eduardo Celmi Camavinga,22,92.0,185.0,77,6.0
+101270,Haissem Hassan,23,82.0,178.0,73,23.0
+101320,Adrià Giner Pedrosa,27,87.0,172.0,68,3.0
+101455,Pol Lozano Vizuete,25,85.0,176.0,73,10.0
+101661,Miguel Ángel Rubio Lestan,27,84.0,191.0,86,15.0
+101768,Kwasi Sibo,27,83.0,182.0,73,6.0
+101784,Conor Gallagher,25,90.0,182.0,73,4.0
+101902,Jude Victor William Bellingham,22,95.0,185.0,75,5.0
+102092,Rodrigo Riquelme Reche,25,89.0,174.0,70,17.0
+102172,Manuel Sánchez De La Peña,25,86.0,179.0,70,23.0
+102243,Pedro González López,22,94.0,174.0,60,8.0
+102352,Antonio Sánchez Navarro,28,85.0,179.0,78,6.0
+102389,Pathé Ismaël Ciss,31,87.0,183.0,71,6.0
+102426,Tanguy-Austin Nianzou Kouassi,23,85.0,188.0,83,24.0
+102715,Domingos André Ribeiro Almeida,25,88.0,176.0,65,10.0
+102892,Jon Moncayola Tollar,27,88.0,189.0,86,7.0
+103110,Arnau Tenas Ureña,24,84.0,185.0,75,25.0
+103168,Luka Sučić,23,87.0,185.0,69,24.0
+103187,João Lucas De Souza Cardoso,24,90.0,186.0,78,5.0
+103452,David Affengruber,24,85.0,191.0,79,22.0
+103675,Moussa Diarra,24,85.0,183.0,68,22.0
+103686,Largie Ramazani,24,84.0,167.0,60,17.0
+103700,Batista Adelino Mendy,25,87.0,190.0,81,19.0
+103878,Iker Losada Aragunde,24,83.0,175.0,70,18.0
+103943,Beñat Turrientes Imaz,23,88.0,181.0,68,8.0
+104053,Randy Nteka,27,85.0,189.0,75,11.0
+104110,Germán Valera Karabinaite,23,83.0,170.0,67,30.0
+104355,Aimar Oroz Huarte,23,88.0,177.0,70,10.0
+104420,Matteo Ruggeri,23,89.0,187.0,79,3.0
+104452,Moriba Kourouma Kourouma,22,86.0,185.0,73,6.0
+104532,Facundo Tomás Garcés,26,84.0,188.0,82,2.0
+104572,Rafael Marín Zamora,23,85.0,190.0,80,4.0
+104686,Yago De Santiago Alonso,22,76.0,180.0,74,24.0
+104690,Jesús Vázquez Alcalde,22,83.0,182.0,73,21.0
+104697,Jon Pacheco Dozagarat,24,88.0,184.0,77,5.0
+104711,Javier López Carballo,23,88.0,183.0,75,25.0
+104719,Alexandre Zurawski,27,82.0,182.0,77,9.0
+104829,Alejandro Baena Rodríguez,24,91.0,175.0,70,10.0
+104910,Daniel Vivian Moreno,26,91.0,183.0,82,3.0
+104930,Josep María Chavarria Pérez,27,86.0,174.0,70,3.0
+104986,Diego José Conde Alcoado,26,86.0,188.0,80,13.0
+105414,Tyrhys Dolan,23,83.0,170.0,58,24.0
+105430,Oriol Rey Erenas,27,82.0,177.0,70,20.0
+105443,Daniel Cárdenas Lindez,28,83.0,185.0,80,1.0
+105444,Pablo Martínez Andrés,27,83.0,182.0,75,10.0
+105448,Samuel Almeida Costa,24,88.0,183.0,75,12.0
+105449,Álvaro Valles Rosa,28,87.0,190.0,78,1.0
+105459,Alejandro Francés Torrijo,23,84.0,180.0,72,16.0
+105646,Brandon Dominguès,25,77.0,172.0,63,42.0
+105691,Andrei Florin Rațiu,27,88.0,183.0,73,2.0
+106523,Natan Bernardo De Souza,24,88.0,188.0,74,4.0
+107089,Jiří Letáček,26,82.0,196.0,90,1.0
+107346,Carlos Álvarez Rivera,22,83.0,168.0,61,24.0
+107482,Azzedine Ounahi,25,86.0,179.0,72,18.0
+107661,Ilias Akhomach Chakkour,21,87.0,175.0,70,11.0
+107891,Arsen Zakharyan,22,87.0,180.0,68,8.0
+107937,Gerard Fernández Castellano,22,85.0,178.0,66,14.0
+107978,John Chetauya Nwankwo Donald Okeh,24,80.0,185.0,78,18.0
+108378,Luiz Lúcio Reis Júnior,24,86.0,192.0,80,1.0
+108603,Calebe Gonçalves Ferreira Da Silva,25,82.0,172.0,65,20.0
+108763,Urko González De Zárate Quirós,24,84.0,189.0,80,4.0
+108778,Flavien Enzo Thiedort Boyomo,23,88.0,184.0,73,22.0
+108793,Sergio Carreira Vilariño,24,85.0,170.0,70,5.0
+108796,Alfonso González Martínez,26,84.0,172.0,60,17.0
+108797,Juan Antonio Iglesias Sánchez,27,86.0,185.0,76,21.0
+108798,Víctor García Raja,28,82.0,185.0,79,17.0
+108912,Nicholas Williams Arthuer,23,92.0,180.0,68,10.0
+109090,Nicolás Serrano Galdeano,22,82.0,178.0,72,22.0
+109625,Iván Martín Núñez,26,89.0,178.0,70,23.0
+109701,Georges Mikautadze,24,88.0,176.0,71,9.0
+110049,Alejandro Balde Martínez,21,91.0,175.0,69,3.0
+110053,Pablo Martín Páez Gavira,21,91.0,173.0,68,6.0
+110769,Giuliano Simeone Baldini,22,88.0,173.0,74,20.0
+111008,Omar El Hilali,22,86.0,183.0,75,23.0
+112568,Arnau Martínez López,22,87.0,181.0,72,4.0
+113352,Alberto Moleiro González,21,88.0,174.0,68,20.0
+113441,Jesús Areso Blanco,26,87.0,182.0,75,12.0
+113575,José Manuel Arias Copete,25,85.0,190.0,80,3.0
+113663,Pablo Torre Carral,22,83.0,173.0,66,20.0
+113664,Williot Theo Swedberg,21,84.0,185.0,76,19.0
+113889,Jon Mikel Aramburu Mejías,23,87.0,174.0,71,19.0
+114310,Clemens Riedel,22,80.0,186.0,85,38.0
+114497,Oier Luengo Redondo,27,82.0,185.0,78,15.0
+114505,Arda Güler,20,88.0,176.0,67,15.0
+114692,Abdessamad Ezzalzouli,23,88.0,177.0,73,10.0
+115061,Ramón Terrats Espacio,24,85.0,174.0,68,14.0
+115087,Logan Costa,24,89.0,188.0,87,2.0
+115094,Leonardo Román Riquelme,25,83.0,186.0,78,1.0
+115098,Julen Agirrezabala Astúlez,24,87.0,187.0,80,25.0
+115126,Léo Pétrot,28,83.0,188.0,80,21.0
+115809,Yáser Esnéider Asprilla Martínez,21,85.0,176.0,75,10.0
+116115,Nelson Alexander Deossa Suárez,25,84.0,185.0,75,18.0
+116349,Jon Karrikaburu Jaimerena,23,82.0,180.0,75,19.0
+116639,Vladyslav Vanat,23,88.0,181.0,65,19.0
+117085,Roony Bardghji,19,82.0,173.0,67,28.0
+117183,Unai Marrero Larrañaga,23,80.0,187.0,79,13.0
+117207,Pablo Marín Tejada,22,85.0,180.0,73,28.0
+117209,Jon Ander Olasagasti Imizcoz,25,84.0,176.0,74,8.0
+117258,Carlos Domínguez Cáceres,24,85.0,187.0,80,24.0
+117261,Ferran Jutglà Blanch,26,85.0,175.0,77,9.0
+117425,Alejandro Iturbe Encabo,22,80.0,186.0,75,42.0
+117441,Mateo Joseph Fernández Regatillo,21,82.0,181.0,74,18.0
+117462,Endrick Felipe Moreira De Sousa,19,87.0,173.0,68,16.0
+117818,Martim Carvalho Neto,22,80.0,185.0,73,16.0
+117953,Roberto Fernández Jáen,23,85.0,185.0,76,9.0
+117986,Juan Luis Sánchez Velasco,22,85.0,186.0,68,16.0
+118048,Álvaro Fernández Carreras,22,88.0,186.0,70,18.0
+118059,Abdelkabir Abqar,26,87.0,188.0,83,3.0
+118064,Iván Romero De Ávila Araque,24,81.0,173.0,72,9.0
+118132,Lucas Carl Edvard Bergström,23,75.5,199.5,84,25.0
+118170,Carlos Martín Domínguez,23,83.0,180.0,74,12.0
+118176,Orri Steinn Óskarsson,21,85.0,186.0,80,9.0
+118586,Joan García Pons,24,89.0,192.0,77,13.0
+118589,Marc Pubill Pagés,22,83.0,190.0,73,18.0
+118720,Beñat Prados Díaz,24,88.0,180.0,72,24.0
+118994,Javier Llabrés Exposito,23,78.0,172.0,71,19.0
+119374,Abderrahman Rebbach,27,83.0,176.0,68,14.0
+119378,Youssef Enriquez Lekhedim,19,77.0,170.0,68,3.0
+119510,Rúben Iranzo Lendínez,22,77.0,182.0,69,26.0
+119512,Hugo Sotelo Gómez,21,83.0,185.0,75,22.0
+119533,Rubén Sánchez Sáez,24,82.0,185.0,73,2.0
+119539,Jofre Carreras Pagès,24,85.0,175.0,70,17.0
+120046,Sergi Cardona Bermúdez,26,90.0,185.0,80,23.0
+120321,Mario Martín Rielves,21,82.0,177.0,74,6.0
+120323,Álvaro Daniel Rodríguez Muñoz,21,83.0,192.0,81,20.0
+120596,Álvaro Núñez Cobo,25,82.0,174.0,60,15.0
+120600,Pablo Barrios Rivas,22,90.0,181.0,75,8.0
+120615,Federico Redondo Solari,22,83.0,188.0,75,5.0
+120682,Renato Palma Veiga,22,86.0,190.0,88,12.0
+120735,Mikel López Goti,23,78.0,183.0,71,22.0
+120932,Alejandro Padilla Pérez,22,80.0,190.0,83,27.0
+120954,Aitor Paredes Casamichana,25,89.0,186.0,76,4.0
+121009,Alan Matturro Romero,20,82.0,189.0,74,3.0
+121042,Jhon Elmer Solís Romero,20,82.0,189.0,80,22.0
+121755,Jones El-Abdellaoui,19,76.0,184.0,76,39.0
+121758,Akor Jerome Adams,25,85.0,184.0,82,9.0
+122920,Jozhua Tomayo Vertrouwd,21,78.0,188.0,73,33.0
+122954,Luca Warrick Daeovie Koleosho,21,83.0,175.0,70,16.0
+123319,Pablo Ibáñez Lumbreras,27,85.0,179.0,74,14.0
+123574,Ángel Fortuño Viñas,23,76.0,183.0,78,1.0
+124038,Raúl García De Haro,24,85.0,192.0,69,9.0
+124097,Iker Benito Sánchez,23,80.0,176.0,71,2.0
+124098,José Ángel Carmona Navarro,23,86.0,183.0,80,2.0
+124124,Alejandro Primo Hernández,21,75.5,187.0,74,32.0
+124128,Hugo Álvarez Antúnez,22,85.0,176.0,66,23.0
+124570,Diego Valentín Gómez,22,86.0,181.0,73,16.0
+124685,Marc Casadó Torras,22,87.0,172.0,65,17.0
+124900,Marc Vicente Vidal Girona,25,75.5,185.0,74,25.0
+124905,Adrià Altimira Reynaldos,24,83.0,170.0,62,3.0
+125039,Joel Roca Casals,20,78.0,176.0,72,3.0
+125041,Francisco Pérez Martínez,23,86.0,176.0,70,21.0
+125043,Diego López Noguerol,23,87.0,172.0,67,16.0
+125593,Tanitoluwa Oluwatimikhin Oluwaseyi,25,83.0,188.0,80,21.0
+125605,José Salinas Morán,24,83.0,179.0,69,12.0
+126164,Enrique Jesús Salas Valiente,23,86.0,186.0,70,4.0
+126519,Abu Bakarr Kamara,22,80.0,183.0,66,11.0
+126898,Lamine Yamal Nasraoui Ebana,18,94.0,180.0,72,10.0
+128587,Álex Forés Mendoza,24,82.0,180.0,67,19.0
+129141,Daniel Pérez Guerrero,20,77.0,173.0,70,37.0
+129147,Dean Donny Huijsen,20,89.0,195.0,84,24.0
+129294,Yoel Lago Amil,21,78.0,177.0,70,29.0
+129407,Abel Bretones Cruz,25,86.0,186.0,78,23.0
+129653,Pablo Durán Fernández,24,83.0,180.0,70,18.0
+129731,Bryan Zaragoza Martínez,24,88.0,164.0,58,15.0
+130142,Urko Iruretagoiena Lertxundi,25,82.0,175.0,73,25.0
+130178,Carlos Romero Serrano,23,85.0,180.0,70,22.0
+130785,Nobel Mendy,21,80.0,187.0,78,32.0
+131714,Álvaro Santiago Mouriño González,23,85.0,183.0,76,15.0
+132577,Andrés López Gallo,22,75.5,188.0,80,32.0
+132672,Iker Muñoz Cameros,22,85.0,179.0,70,8.0
+133514,Gonzalo García Torres,21,82.0,182.0,74,30.0
+133517,Manuel Bueno Sebastián,21,78.0,178.0,70,28.0
+134027,Sergio Mestre Sánchez,20,75.5,193.0,80,42.0
+134702,Javier Guerra Moreno,22,88.0,187.0,77,8.0
+135558,Unai Gómez Echevarria,22,85.0,183.0,75,20.0
+136744,Carlos Vicente Robles,26,87.0,176.0,72,7.0
+136890,Alejandro San Cristóbal Sánchez,28,81.0,181.0,72,18.0
+137000,Pablo Cuñat Campos,23,80.0,188.0,77,1.0
+137029,Alberto Reina Campos,28,81.0,168.0,70,5.0
+137075,Ramón Martínez Gil,22,77.0,185.0,71,22.0
+137080,Isaac Romero Bernal,25,87.0,184.0,70,7.0
+137085,Unai Egíluz Arroyo,23,80.0,186.0,78,29.0
+137089,Hugo Rincón Lumbreras,22,82.0,183.0,78,2.0
+137091,Alejandro Rego Mora,22,75.5,192.0,79,30.0
+137106,Jon Gorrotxategi Etxaniz,23,82.0,177.0,74,14.0
+137249,Javier Rueda García,23,80.0,177.0,71,17.0
+137256,Héctor Fort García,19,82.0,185.0,78,39.0
+137340,Willy Kambwala Ndengushi,21,82.0,192.0,85,5.0
+137546,Miguel Román González,22,77.0,178.0,70,16.0
+137578,Fermín López Marín,22,89.0,174.0,64,16.0
+137619,Sergi Altimira Clavell,24,88.0,188.0,75,6.0
+137656,Ilyas Chaira,24,82.0,175.0,70,7.0
+137675,Raúl Asencio Del Rosario,22,88.0,184.0,79,17.0
+138048,Gerard Martin Langreo,23,85.0,186.0,73,18.0
+138965,Abdel Rahim Alhassane Bonkano,23,82.0,184.0,75,3.0
+139611,Marc Bernal Casas,18,80.0,193.0,84,22.0
+139750,César Tárrega Requeni,23,86.0,194.0,78,5.0
+139751,Pau Cubarsí Paredes,18,90.0,184.0,75,5.0
+140175,Asier Osambela Larraya,20,77.0,186.0,75,29.0
+140176,Jon Martín Vicente,19,82.0,185.0,83,31.0
+140223,Matías Agustín Moreno,21,80.0,193.0,80,2.0
+140519,Víctor Muñoz Villanueva,22,78.0,173.0,64,21.0
+140540,Mawuli Kwame Mensah Vadze,21,77.0,168.0,66,28.0
+140558,David López Guijarro,22,78.0,195.0,82,27.0
+141075,Antoniu Roca Vives,23,82.0,180.0,65,20.0
+141616,Rodrigo Mendoza Martinez Moya,20,80.0,182.0,75,30.0
+141909,Mauro Echegoyen Berrozpe,20,75.5,168.0,62,26.0
+141968,Vitor De Oliveira Nunes Dos Reis,19,83.0,186.0,77,12.0
+141994,Ali Houary Jeddoub,20,75.5,178.0,74,35.0
+141995,Adam Boayar Benaisa,19,75.5,180.0,75,32.0
+142559,Victor Parada González,23,78.0,184.0,74,24.0
+142808,Adama Boiro Boiro,23,83.0,183.0,75,19.0
+143202,Franco Mastantuono,18,85.0,177.0,71,30.0
+143368,Mikel Jauregizar Alboniga,21,87.0,177.0,71,18.0
+143426,David Otorbi Ejededawe,17,75.5,180.0,70,27.0
+143572,Jon De Luis Suescun,22,75.5,186.0,75,34.0
+143601,Dimitrios Stamatakis,22,75.5,191.0,83,31.0
+143604,Javier Rodríguez Galiano,22,86.0,178.0,70,32.0
+143605,Damián Rodríguez Sousa,22,82.0,180.0,75,14.0
+143879,Pau Navarro Badenes,20,80.0,185.0,75,26.0
+144663,Karl Edouard Blaise Etta Eyong,21,80.0,181.0,75,21.0
+144949,Pol Tristán Jiménez,23,75.5,184.0,73,30.0
+146902,Carlos Espí Escrihuela,20,77.0,194.0,83,19.0
+147939,Adrián Liso Lahoz,20,80.0,182.0,70,23.0
+147940,Jorge Cabello Trujillo,21,80.0,180.0,76,14.0
+149230,Alberto Risco Alcántara,20,75.5,178.0,68,30.0
+149730,Arkaitz Mariezkurrena Etxezarreta,20,78.0,181.0,68,40.0
+150293,Maroan Sannadi Harrouch,24,84.0,192.0,80,21.0
+151249,Vladyslav Krapyvtsov,20,75.5,188.0,70,25.0
+151594,Francisco Javier Hernández Coarasa,21,80.0,175.0,68,14.0
+151638,Ángel Ortiz Monterrey,21,78.0,167.0,60,40.0
+151663,Manuel Fernández Arroyo,24,76.0,185.0,83,12.0
+151725,Pablo García Fernández,19,76.0,175.0,67,42.0
+151729,Salvador Esquivel Gámez,19,75.5,193.0,80,31.0
+152049,Marc Domenech González,18,76.0,182.0,70,30.0
+152072,Pau Cabanes De La Torre,20,78.0,179.0,74,33.0
+153538,Coba Gomes Da Costa,23,82.0,182.0,73,20.0
+154494,David Cordón Mancha,17,75.5,182.0,73,26.0
+154507,Jean Ives Valou,19,75.5,188.0,80,27.0
+154622,Papa Dame Ba,21,75.5,180.0,70,42.0
+155056,Jofre Torrents Salvat,18,75.5,182.0,69,26.0
+155063,Jan Virgili Tenas,19,75.5,173.0,62,29.0
+155230,Albert Constantin Niculăesei Plesca,17,75.5,186.0,76,27.0
+158326,Lander Pinillos Wilson,21,75.5,178.0,70,28.0
+160042,Ismael Bekhoucha,20,76.0,176.0,69,31.0
+161266,Juan Pedro Gil Bueno,24,75.5,185.0,74,30.0
+163479,Miguel De Jesús Narváez López,23,75.5,188.0,79,26.0
+164465,Thiago Pitarch Pinar,18,75.5,179.0,66,42.0
