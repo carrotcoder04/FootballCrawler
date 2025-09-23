@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Files
 INPUT = Path(__file__).resolve().parent.parent / "data" / "data.xlsx"
-OUT   = Path(__file__).resolve().parent.parent / "data" / "cleaned_data.csv"
+OUT   = Path(__file__).resolve().parent.parent / "data" / "cleaned_data.xlsx"
 LOG   = Path(__file__).resolve().parent / "clean.log"
 
 # Logging
@@ -134,9 +134,9 @@ def main():
     logger.info("dtypes after cleaning:")
     logger.info(df.dtypes.to_dict())
 
-    # Save CSV
-    df.to_csv(OUT, index=False)
-    logger.info(f"Saved cleaned CSV: {OUT}")
+    # Save xlsx
+    df.to_excel(OUT, index=False)
+    logger.info(f"Saved cleaned xlsx: {OUT}")
     print(f"Done. Cleaned file saved as: {OUT}")
     print(f"Log saved as: {LOG}")
 
